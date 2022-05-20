@@ -23,3 +23,4 @@ This sample code is made available under a modified MIT license. See the LICENSE
 # KVS-Frontend
 # KVS-Frontend
 # KinesisVideoStreams-Frontend
+# KVS-Frontend
