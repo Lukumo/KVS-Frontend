@@ -20,3 +20,5 @@ Because the project is a collection of static HTML and JavaScript, you can use t
 ## License Summary
 
 This sample code is made available under a modified MIT license. See the LICENSE file.
+# KVS-Frontend
+# KVS-Frontend
